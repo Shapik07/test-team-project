@@ -1,0 +1,25 @@
+// RESSETERS
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+// BASE STYLES
+
+.link {
+  display: inline-block;
+}
+
+.container {
+  display: block;
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.navigation {
+  display: flex;
+}
