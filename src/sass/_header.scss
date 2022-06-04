@@ -15,5 +15,11 @@ a {
 }
 
 .container {
-  display: inline-block;
+  display: block;
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.navigation {
+  display: flex;
 }
